@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "599404561674",
+    "project_id": "lead-form-85fe4",
+    "storage_bucket": "lead-form-85fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599404561674:android:ba63e3519a0c463cc2a6f3",
+        "android_client_info": {
+          "package_name": "com.example.onboarding_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qdNXVMoR1qyyOdFsS0vfGRtnivi9LLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599404561674:android:7f8f6b1155fc7295c2a6f3",
+        "android_client_info": {
+          "package_name": "com.leadform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qdNXVMoR1qyyOdFsS0vfGRtnivi9LLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
